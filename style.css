@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+div{
+    height: auto;
+    width: 500px;
+    background-color: beige;
+    margin-left: 33.3%;
+}
